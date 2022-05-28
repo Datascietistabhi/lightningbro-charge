@@ -1,0 +1,28 @@
+{
+  "name": "lightningbro-charge",
+  "version": "1.0.0",
+  "description": "lightningbro-charge",
+  "main": "babel.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Datascietistabhi/lightningbro-charge.git"
+  },
+  "keywords": [
+    "brocoind",
+    "brocoin-cli",
+    "lightningd",
+    "lightning-cli"
+  ],
+  "author": "Abhishek Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Datascietistabhi/lightningbro-charge/issues"
+  },
+  "homepage": "https://github.com/Datascietistabhi/lightningbro-charge#readme"
+}
